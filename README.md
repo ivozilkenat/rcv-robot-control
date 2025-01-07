@@ -4,6 +4,8 @@
 
 > This is a simple robot control testing system
 
+> [!NOTE]
+> Update `controller.py` to change the robot control logic
 
 ## Setup
 
