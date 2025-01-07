@@ -5,7 +5,8 @@
 > This is a simple robot control testing system
 
 > [!NOTE]
-> Update `controller.py` to change the robot control logic
+> - Update `controller.py` to change the robot controller logic
+> - Hold `space` to run the custom control logic (Manual arrow key control possible as override) 
 
 ## Setup
 
